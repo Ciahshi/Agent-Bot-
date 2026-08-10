@@ -152,7 +152,7 @@ flowchart TD
 
 ## 👨‍💻 Developer
 
-Developed by **[Amirali Siavoshi (@Ciah_am)](https://t.me/Ciah_am)**.
+Developed by **[Amir @Ciah_am)](https://t.me/Ciah_am)**.
 
 ---
 
