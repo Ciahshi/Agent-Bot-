@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>[ 🇺🇸 <a href="README_en.md">Read in English</a> | 🇮🇷 مطالعه به فارسی ]</b>
-</p>
-
 ---
 
 یک سورس‌کد کامل، سبک و قدرتمند مبتنی بر **Cloudflare Workers** و **Cloudflare KV** جهت پاسخگویی خودکار و هوشمند به پیام‌های تلگرام بیزینس با استفاده از هوش مصنوعی (Mistral / OpenAI API).
