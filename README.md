@@ -154,9 +154,7 @@ flowchart TD
 ---
 
 ## 👨‍💻 توسعه‌دهنده
-
-طراحی و پیاده‌سازی شده توسط **[Amirali Siavoshi (@Ciah_am)](https://t.me/Ciah_am)**.
-
+طراحی و پیاده‌سازی شده توسط **[Amir (@Ciah_am)](https://t.me/Ciah_am)**.
 ---
 ## 📄 لایسنس
 
